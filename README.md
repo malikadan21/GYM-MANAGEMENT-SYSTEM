@@ -1,6 +1,4 @@
 # Gym Management System Using C# and SQL
-This gym management app assists gym owners in recording member information, guiding workouts, tracking weight loss, diet plans, calorie logs, and daily targets. It automates operations for gym owners, trainers, and members, providing a user-friendly database to handle all member data efficiently.
-
 This gym management system is an app for gyms and health membership systems. It will help gym owners to keep records of registered members, guide which exercises and muscle groups to work out together, how much weight loss is required, their diet plans, logs of calories, and daily targets to achieve. It is designed to facilitate the gym owners, trainers, and members to automate the operations of keeping records and store them in the form of a large and user-friendly database, further facilitating easy access to the personnel. The objective of this system is to provide a system that handles the information of the members using the application and maintaining their health care. Every user involved in the system will have their own User Interface. 
 
 Member Interface
